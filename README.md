@@ -1,1 +1,3 @@
 # ECOMMERCE-WEBSITE-USING-REACT-JS
+
+The e-commerce website is built using React.js, offering a dynamic and interactive user interface. It includes features such as a homepage with featured products, product listings with filters, user authentication, a shopping cart, and a secure checkout process. The site is responsive, ensuring a seamless experience across devices, and incorporates security measures, performance optimization, analytics, and testing. Download the node module to run
